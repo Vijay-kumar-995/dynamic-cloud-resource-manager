@@ -52,12 +52,12 @@
 - [ ] Run static allocation experiments
 - [ ] Collect utilization metrics
 
-## Milestone 7 — Resource Pool and Scheduler
+## M7 — Resource Pool, Scheduler and Allocator
 
-- [ ] Create Resource Pool
-- [ ] Create Scheduler
-- [ ] Create Resource Allocator
-- [ ] Implement allocation decisions
+- [x] Create Resource Pool
+- [x] Create Scheduler
+- [x] Create Resource Allocator
+- [x] Implement allocation decisions
 
 ## Milestone 8 — Dynamic Allocation
 
