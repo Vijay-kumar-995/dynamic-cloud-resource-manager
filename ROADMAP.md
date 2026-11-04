@@ -41,9 +41,9 @@
 
 ## Milestone 5 — Docker Workloads
 
-- [ ] Create test workloads
-- [ ] Run workloads using Docker
-- [ ] Observe workload resource usage
+- [x] Create test workloads
+- [x] Run workloads using Docker
+- [x] Observe workload resource usage
 - [ ] Connect workloads with the Java monitor
 
 ## Milestone 6 — Static Allocation
