@@ -44,13 +44,13 @@
 - [x] Create test workloads
 - [x] Run workloads using Docker
 - [x] Observe workload resource usage
-- [ ] Connect workloads with the Java monitor
+- [x] Connect workloads with the Java monitor
 
 ## Milestone 6 — Static Allocation
 
-- [ ] Implement fixed resource allocation
-- [ ] Run static allocation experiments
-- [ ] Collect utilization metrics
+- [x] Implement fixed resource allocation
+- [x] Run static allocation experiments
+- [x] Collect utilization metrics
 
 ## M7 — Resource Pool, Scheduler and Allocator
 
