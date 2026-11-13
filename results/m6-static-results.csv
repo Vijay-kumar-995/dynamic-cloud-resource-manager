@@ -1,0 +1,3 @@
+container,cpu_limit,memory_limit,cpu_usage_first,cpu_usage_second,memory_usage,memory_utilization
+static-A,0.5,128MiB,85.62%,0.00%,580KiB,0.44%
+static-B,0.5,128MiB,0.00%,0.00%,436KiB,0.33%
