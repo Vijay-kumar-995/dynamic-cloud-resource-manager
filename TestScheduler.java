@@ -14,9 +14,9 @@ public class TestScheduler {
         System.out.println("====== CLOUD RESOURCE SCHEDULER TEST ======");
 
         // Schedule workloads
-        scheduler.scheduleWorkload("Workload-A", 1.0, 512);
-        scheduler.scheduleWorkload("Workload-B", 2.0, 1024);
-        scheduler.scheduleWorkload("Workload-C", 2.0, 1024);
+        scheduler.scheduleWorkload("Workload-A", "m8-test", 1.0, 512);
+        scheduler.scheduleWorkload("Workload-B", "m8-test", 2.0, 1024);
+        scheduler.scheduleWorkload("Workload-C", "m8-test", 2.0, 1024);
 
         // Display current allocations
         allocator.displayAllocations();

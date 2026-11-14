@@ -6,15 +6,21 @@ public class Scheduler {
         this.allocator = allocator;
     }
 
-    public boolean scheduleWorkload(String workloadName, double cpu, long memoryMB) {
+    public boolean scheduleWorkload(
+            String workloadName,
+            String containerName,
+            double cpu,
+            long memoryMB) {
 
         System.out.println("\n=== Scheduling Workload ===");
         System.out.println("Workload: " + workloadName);
+        System.out.println("Container: " + containerName);
         System.out.println("Requested CPU: " + cpu);
         System.out.println("Requested Memory: " + memoryMB + " MB");
 
         boolean scheduled = allocator.allocateForWorkload(
                 workloadName,
+                containerName,
                 cpu,
                 memoryMB
         );
