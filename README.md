@@ -100,25 +100,25 @@ Static resource allocation assigns predetermined CPU and memory limits to worklo
 - [x] Resource pool implementation
 - [x] Basic allocation and release operations
 - [x] Validation of resource requests
-- [ ] Scheduler implementation
-- [ ] Resource allocator implementation
-- [ ] Integrated testing of the resource management components
+- [x] Scheduler implementation
+- [x] Resource allocator implementation
+- [x] Integrated testing of the resource management components
 
 ### Milestone 8: Dynamic Resource Management
 
-- [ ] Docker workload management
-- [ ] Dynamic resource allocation
-- [ ] Resource reallocation
-- [ ] Resource reclamation
-- [ ] Integration with Docker and Linux cgroups
+- [x] Docker workload management
+- [x] Dynamic resource allocation
+- [x] Resource reallocation
+- [x] Resource reclamation
+- [x] Integration with Docker and Linux cgroups
 
 ### Milestone 9: Experiments and Evaluation
 
-- [ ] Static allocation baseline
-- [ ] Workload experiments
-- [ ] Resource utilization measurements
-- [ ] Comparison of allocation strategies
-- [ ] Metrics and visualization
+- [x] Static allocation baseline
+- [x] Workload experiments
+- [x] Resource utilization measurements
+- [x] Comparison of allocation strategies
+- [x] Metrics and visualization
 
 ### Milestone 10: Finalization
 
