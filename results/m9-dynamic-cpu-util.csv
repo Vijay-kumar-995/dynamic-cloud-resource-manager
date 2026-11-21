@@ -1,0 +1,12 @@
+sample,stage,cpu_allocation,memory_allocation,cpu_usage,memory_usage,memory_limit,memory_percent,status
+1,Initial,0.5,256,125.31%,4.617MiB,256MiB,1.80%,running
+2,Increased,1.0,512,114.88%,4.617MiB,512MiB,0.90%,running
+3,Increased,1.0,512,111.03%,4.617MiB,512MiB,0.90%,running
+4,Increased,1.0,512,110.11%,4.617MiB,512MiB,0.90%,running
+5,Increased,1.0,512,113.55%,4.617MiB,512MiB,0.90%,running
+6,Decreased,0.5,256,56.08%,4.617MiB,256MiB,1.80%,running
+7,Decreased,0.5,256,56.34%,4.617MiB,256MiB,1.80%,running
+8,Decreased,0.5,256,54.89%,4.617MiB,256MiB,1.80%,running
+9,Decreased,0.5,256,54.97%,4.617MiB,256MiB,1.80%,running
+10,Decreased,0.5,256,58.60%,4.617MiB,256MiB,1.80%,running
+11,Decreased,0.5,256,55.43%,4.617MiB,256MiB,1.80%,running

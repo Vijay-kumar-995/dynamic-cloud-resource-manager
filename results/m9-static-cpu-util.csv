@@ -1,0 +1,11 @@
+sample,container,workload,cpu_usage,memory_usage,memory_limit,status
+1,m9-static-A,CPU-intensive,58.38%,3.469 MiB,128 MiB,running
+1,m9-static-B,idle,0.00%,436 KiB,128 MiB,running
+2,m9-static-A,CPU-intensive,52.37%,3.469 MiB,128 MiB,running
+2,m9-static-B,idle,0.00%,436 KiB,128 MiB,running
+3,m9-static-A,CPU-intensive,52.30%,3.461 MiB,128 MiB,running
+3,m9-static-B,idle,0.00%,436 KiB,128 MiB,running
+4,m9-static-A,CPU-intensive,52.51%,3.461 MiB,128 MiB,running
+4,m9-static-B,idle,0.00%,436 KiB,128 MiB,running
+5,m9-static-A,CPU-intensive,52.99%,3.461 MiB,128 MiB,running
+5,m9-static-B,idle,0.00%,436 KiB,128 MiB,running
