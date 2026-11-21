@@ -61,18 +61,18 @@
 
 ## Milestone 8 — Dynamic Allocation
 
-- [ ] Implement dynamic allocation
-- [ ] Implement reallocation
-- [ ] Implement resource reclamation
+- [x] Implement dynamic allocation
+- [x] Implement reallocation
+- [x] Implement resource reclamation
 
 ## Milestone 9 — Experiments
 
-- [ ] Static allocation experiment
-- [ ] Dynamic allocation experiment
-- [ ] CPU utilization comparison
-- [ ] Memory utilization comparison
-- [ ] Resource wastage comparison
-- [ ] Workload performance comparison
+- [x] Static allocation experiment
+- [x] Dynamic allocation experiment
+- [x] CPU utilization comparison
+- [x] Memory utilization comparison
+- [x] Resource wastage comparison
+- [x] Workload performance comparison
 
 ## Milestone 10 — Final System
 
